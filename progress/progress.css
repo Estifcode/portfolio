@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(2, 9, 24);
+    color: rgb(233, 231, 216);
+}
+
+a {
+    /* width: calc(100% - 18px); */
+    list-style: none;
+    padding: 10px;
+    background: rgb(255, 239, 17); 
+    font-weight: 400;
+    color:  rgb(0, 0, 0);
+    font-size: 18px;
+font-weight: 500;
+margin-top: 20px;
+border-radius: 6px;
+border: 0.30px solid rgb(255, 239, 17);
+transition: all 0.3s ease;
+}
+ a:hover {
+    color:  rgb(255, 239, 17);
+    background: rgb(2, 9, 24);
+    } 
+    .all{
+        background-color:  rgb(2, 9, 24);
+        padding: 20px;
+        text-align: center;
+        color: rgb(255, 239, 17);
+        text-decoration: none;
+        font-size: 16px;
+    }
